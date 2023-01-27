@@ -1,7 +1,7 @@
 
 <img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="assets/0.png" align="right">
 
-# Clover Suite Builder SetUp
+# Clover Suite Builder SetUp (coming soon)
 CloverBootloader Installer and set up tool for Clover Suite Builder 
 ###
 
@@ -21,7 +21,7 @@ CloverBootloader Installer and set up tool for Clover Suite Builder
 * givin you the choice to where install the new components
 * as standalone application or directly inside the CloverBooloader directory
 
-<img src="assets/3.png" width="321" height="274">
+<img src="assets/3.png" width="321" height="222">
 
 <img src="assets/4.png" width="500" height="258">
 
