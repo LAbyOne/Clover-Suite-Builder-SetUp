@@ -23,7 +23,7 @@ CloverBootloader Installer and set up tool for Clover Suite Builder
 
 <img src="assets/3.png" width="321" height="274">
 
-<img src="assets/4.png" width="321" height="274">
+<img src="assets/4.png" width="500" height="258">
 
 * You will be able in both cases to use all available tools it provides
 * Both versions will be accessible as MenuBar Item
